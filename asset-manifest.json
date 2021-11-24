@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/textEditing/static/css/main.d66bedf0.chunk.css",
+    "main.js": "/textEditing/static/js/main.7d390a83.chunk.js",
+    "main.js.map": "/textEditing/static/js/main.7d390a83.chunk.js.map",
+    "runtime-main.js": "/textEditing/static/js/runtime-main.6cb59d91.js",
+    "runtime-main.js.map": "/textEditing/static/js/runtime-main.6cb59d91.js.map",
+    "static/js/2.e5717925.chunk.js": "/textEditing/static/js/2.e5717925.chunk.js",
+    "static/js/2.e5717925.chunk.js.map": "/textEditing/static/js/2.e5717925.chunk.js.map",
+    "static/js/3.89c4cd32.chunk.js": "/textEditing/static/js/3.89c4cd32.chunk.js",
+    "static/js/3.89c4cd32.chunk.js.map": "/textEditing/static/js/3.89c4cd32.chunk.js.map",
+    "index.html": "/textEditing/index.html",
+    "static/css/main.d66bedf0.chunk.css.map": "/textEditing/static/css/main.d66bedf0.chunk.css.map",
+    "static/js/2.e5717925.chunk.js.LICENSE.txt": "/textEditing/static/js/2.e5717925.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb59d91.js",
+    "static/js/2.e5717925.chunk.js",
+    "static/css/main.d66bedf0.chunk.css",
+    "static/js/main.7d390a83.chunk.js"
+  ]
+}
